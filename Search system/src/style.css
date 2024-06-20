@@ -1,0 +1,30 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #000;
+  margin-top: 60px;
+}
+
+button {
+  background: #067c5b;
+	border: none;
+	border-radius: 7px;
+	cursor: pointer;
+	color: rgb(252, 243, 243);
+	font: 500 1.05rem/1 "Nunito", sans-serif;
+	letter-spacing: .05em;
+	overflow: hidden;
+	padding: 13px 3.5em;
+	min-height: 2.9em;
+	position: relative;
+	text-transform: lowercase;
+}
+
+
+input{
+  border-color: #067c5b;
+  border-radius: 5px;
+  width: 350px;
+}
